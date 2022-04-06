@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>Software Developer.</p>
         <p>
-          To check my profesional profile please visit {` `}
+          To check my professional profile please visit {` `}
           <a href="https://lautarorangil.com">my portfolio</a>.
         </p>
       </section>
